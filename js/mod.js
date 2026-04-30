@@ -1,6 +1,6 @@
 let modInfo = {
-	name: "The ??? Tree",
-	author: "nobody",
+	name: "The DoE Tree",
+	author: "Mundunugu",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
 
@@ -13,7 +13,7 @@ let modInfo = {
 // Set your version in num and name
 let VERSION = {
 	num: "0.0",
-	name: "Literally nothing",
+	name: "The Department of Everything",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
